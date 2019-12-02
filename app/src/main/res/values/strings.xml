@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CapteursAccess</string>
+    <string name="txtId">Identifiant:</string>
+    <string name="txtplaceCap">Place du capteur:</string>
+    <string name="txtvalCap">Valeur du capteur:</string>
+    <string name="txtnmCap">Nom du capteur:</string>
+</resources>
